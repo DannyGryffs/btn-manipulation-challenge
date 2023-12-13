@@ -1,0 +1,25 @@
+#interact {
+    color: white;
+    background-color: purple;
+    border-radius: 90%;
+    padding: 25px;
+    font-size: medium;
+    border: 5px solid greenyellow;
+
+    position: fixed;
+    /* top: 50%;
+    left: 50%;
+    margin-top: -36px;
+    margin-left: -108px;
+} */
+
+#btn-div {
+    /* display: grid;
+    place-items: center;  */
+
+    
+}
+
+body {
+    background-color: aqua;
+}
